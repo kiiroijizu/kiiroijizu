@@ -1,1 +1,8 @@
-<a href="https://ibb.co.com/k2DtRLhd"><img src="https://i.ibb.co.com/F4YFSQBP/furilaisgithub-20260209000035.png" alt="furilaisgithub-20260209000035" border="0"></a>
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <img src="https://img.sanishtech.com/u/d041c843462a89bc0fedb5483b40bdd6.png">
+  </body>
+</html>
